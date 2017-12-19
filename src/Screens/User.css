@@ -1,3 +1,25 @@
+.lvl {
+  position: relative;
+  left: 17.5%;
+}
+.light {
+  position: relative;
+  left: 17.5%;
+  color: yellow;
+}
+
+.race {
+  position: relative;
+  top: 40%;
+  left: 70%;
+}
+
+.class{
+  position: relative;
+  top: 20%;
+  left: 85%;
+}
+
 .Home {
   text-align: center;
 }

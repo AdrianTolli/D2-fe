@@ -1,6 +1,6 @@
 # TODO
 
-* Add race & class
+* Add race & class - Half done, change hashes into text
 * Search bar
 * Items (server)
 * Items frontend

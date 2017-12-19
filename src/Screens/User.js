@@ -37,6 +37,9 @@ class Home extends Component {
       <div style={{backgroundImage:"url("+ emblemPath + ")", width:474, height:96, color:'white'}}>
       <div className='lvl'> {character.levelProgression.level} </div>
       <div className='light'> {character.light} </div>
+      <div className='race'> Race: {character.raceType} </div>
+      <div className='class'> Class: {character.classType} </div>
+      
       </div>
     );
     }
