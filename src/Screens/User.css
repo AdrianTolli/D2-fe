@@ -8,16 +8,10 @@
   color: yellow;
 }
 
-.race {
+.raceClass {
   position: relative;
   top: 40%;
   left: 70%;
-}
-
-.class{
-  position: relative;
-  top: 20%;
-  left: 85%;
 }
 
 .Home {

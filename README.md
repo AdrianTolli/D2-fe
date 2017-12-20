@@ -1,6 +1,5 @@
 # TODO
 
-* Add race & class - Half done, change hashes into text
 * Search bar
 * Items (server)
 * Items frontend
@@ -13,3 +12,8 @@
 * Move character data into component
 
 * Nice design
+
+
+------------------
+* Done
+* Add race & class - Half done, change hashes into text
